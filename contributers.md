@@ -1,3 +1,4 @@
+
 | Name                   | GitHub ID               | College Name                                                     |
 |------------------------|-------------------------|------------------------------------------------------------------|
 | Pradip Maity           | @codeboy-pro            | Haldia Institute Of Technology                                   |
@@ -22,6 +23,7 @@
 | Avaneesh Verma         | avaneeshk2307-wq        | IIIT Allahabad                                                   |
 | Aditya Shirsatrao      | adityashirsatrao007     | N. K. Orchid College Of Engineering & Technology, Solapur        |
 | Sourish Awasthi         | LooninS                | IIIT Allahabad                  |
+| Ishan Tripathi          | ishantripathi64        | IIIT Allahabad                  |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
 
