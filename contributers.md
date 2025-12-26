@@ -30,6 +30,19 @@
 | Adarsh Shankar Rai      | Adarshrai24          | BIET Jhansi                    |
 | Aaditya Maurya | aadityamaurya31 | IIIT Allahabad |
 | Khushi Shorey | khushishorey | IIIT Allahabad |
-| Ishan Raj Singh | ishanrajsingh | Amity Noida                                 |
+| Ishan Raj Singh | ishanrajsingh | Amity Noida |
+| Spandana Surepally | Spandana-S16 | IIIT Allahabad |
+| Sayed Al Amaan zaidi         | amaan1114           | Rishihood University              |
+| Satwik Santosh | DeadlySatwik | IIIT Allahabad |
+| Ayush Saha | verifiedHuman18 | IIIT Allahabad |
+| Lavay Garg     | lavaygarg    | IIIT Allahabad |
+| Atharva Mehta          | Atharva-insane      | IIIT Allahabad                 |
+| Manisha katariya       | chanchukatariya5     | IIIT Allahabad                 |
+| Kamakshi Gupta          | 29kamakshigupta      | IIIT Allahabad                 |
+| Siddhant Shekhar        | sshekhar563          | United University              |
+| Paarth Arora            |iit2025280-sys        | IIIT Allahabad                 |
+| Ibrahim Raza Beg        | PHOX-9               | IIIT Allahabad                 |
+| Mayank Puri             | purimayank19-bot.  | IIIT Allahabad                  |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
+
