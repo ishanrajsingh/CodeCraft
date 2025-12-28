@@ -7,6 +7,8 @@ You have to find the first change after which at least one of m given segments b
 Time: O((n+m) log q)
 Space: O(n)
 
+Link: https://codeforces.com/contest/1843/submission/355296312
+
 */
 
 #include <bits/stdc++.h>

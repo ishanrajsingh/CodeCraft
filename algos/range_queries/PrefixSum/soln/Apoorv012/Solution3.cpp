@@ -7,6 +7,8 @@ Reverse this subsequence in-place.
 Time: O(n)
 Space: O(n)
 
+Link: https://codeforces.com/contest/1605/submission/355290481
+
 */
 
 #include <bits/stdc++.h>
