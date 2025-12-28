@@ -52,6 +52,7 @@
 | Ansh Patel             | ansh54052           | IIIT Allahabad                  |
 | Sahil                   |Sahil-git005          | IIIT Allahabad               |
 | Naman Pal              | Naman2251              | IIIT Allahabad                |
+| Ankit Pal              | icyfire8               | IIIT Allahabad |
 | Aditya Pratap Singh              | adityas-28              | JIIT Noida                |
 | Yuvaraj Ragothaman     | LevelSilence           | IIIT Allahabad                |
 | Riya Ghoshi            | riya-ctrl376           | IIIT Allahabad                |
