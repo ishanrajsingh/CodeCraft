@@ -1,4 +1,3 @@
-
 | Name                   | GitHub ID           | College Name                   |
 | ---------------------- | ------------------- | ------------------------------ |
 | Asra Tabassum          | Tabassumasra05      | IIIT Allahabad                 |
@@ -30,6 +29,8 @@
 | Adarsh Shankar Rai      | Adarshrai24          | BIET Jhansi                    |
 | Aaditya Maurya | aadityamaurya31 | IIIT Allahabad |
 | Khushi Shorey | khushishorey | IIIT Allahabad |
+| Rahi Birajdar | birajdar464   |IIIT Allahabad  | 
+| Ishan Raj Singh | ishanrajsingh | Amity Noida |
 | Spandana Surepally | Spandana-S16 | IIIT Allahabad |
 | Sayed Al Amaan zaidi         | amaan1114           | Rishihood University              |
 | Satwik Santosh | DeadlySatwik | IIIT Allahabad |
@@ -39,6 +40,30 @@
 | Manisha katariya       | chanchukatariya5     | IIIT Allahabad                 |
 | Kamakshi Gupta          | 29kamakshigupta      | IIIT Allahabad                 |
 | Lakshmish S G          | Coldesy          | IIIT Allahabad                 |
+| Siddhant Shekhar        | sshekhar563          | United University              |
+| Paarth Arora            |iit2025280-sys        | IIIT Allahabad                 |
+| Ibrahim Raza Beg        | PHOX-9               | IIIT Allahabad                 |
+| Mayank Puri             | purimayank19-bot.  | IIIT Allahabad                  |
+| Sindhu B                | Sindhuu-B            | JNNCE                          |
+| Harshit Sethi           | HarshitRSethi      | IIIT Allahabad                  |
+| Abhigyan Tiwari            | Abh-igyan  | NIT Silchar                  |
+| Mahavir Dodiya          |Mvdodiya001           | IIIT Allahabad                 |
+| Vishva Modh | ViMo018 | IIIT Allahabad |
+| Roshan Gupta| roshangupta4804-hue |  |  IIIT Allahabad | 
+| Ansh Patel             | ansh54052           | IIIT Allahabad                  |
+| Sahil                   |Sahil-git005          | IIIT Allahabad               |
+| Naman Pal              | Naman2251              | IIIT Allahabad                |
+|Priyanshi Giri           | hellopaintinghi-cmd    |IIIT Allahabad               |
+| Sudhanshu              | sahsudhanshu        | IIIT Allahabad                 |
+| Ankit Pal              | icyfire8               | IIIT Allahabad |
+| Aditya Pratap Singh              | adityas-28              | JIIT Noida                |
+| Yuvaraj Ragothaman     | LevelSilence           | IIIT Allahabad                |
+| Riya Ghoshi            | riya-ctrl376           | IIIT Allahabad                |
+| Vrajkumar Shah           | vraj826      | DDU Nadiad                 |
+| Ashutosh Kesarwani     | Lucifer-0612           | HIT Haldia                    |
+
+| Apoorv Mittal              | Apoorv012              | JIIT Noida                |
+| Chauhan Devan            | Devan019              | DDIT nadiad                |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
