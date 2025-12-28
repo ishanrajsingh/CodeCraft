@@ -53,6 +53,14 @@
 | Sahil                   |Sahil-git005          | IIIT Allahabad               |
 | Naman Pal              | Naman2251              | IIIT Allahabad                |
 | Ankit Pal              | icyfire8               | IIIT Allahabad |
+| Aditya Pratap Singh              | adityas-28              | JIIT Noida                |
+| Yuvaraj Ragothaman     | LevelSilence           | IIIT Allahabad                |
+| Riya Ghoshi            | riya-ctrl376           | IIIT Allahabad                |
+| Vrajkumar Shah           | vraj826      | DDU Nadiad                 |
+| Ashutosh Kesarwani     | Lucifer-0612           | HIT Haldia                    |
+
+| Apoorv Mittal              | Apoorv012              | JIIT Noida                |
+| Chauhan Devan            | Devan019              | DDIT nadiad                |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
 
