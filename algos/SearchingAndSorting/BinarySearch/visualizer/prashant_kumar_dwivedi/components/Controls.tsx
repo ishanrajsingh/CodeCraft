@@ -35,6 +35,7 @@ export default function Controls({
         >
           Previous Step
         </button>
+
         <button
           onClick={nextStep}
           disabled={steps.length === 0 || currentStep >= steps.length - 1}
@@ -42,6 +43,7 @@ export default function Controls({
         >
           Next Step
         </button>
+
         <button
           onClick={reset}
           className="bg-red-700 text-white px-4 py-2 rounded"
@@ -49,10 +51,13 @@ export default function Controls({
           Reset
         </button>
       </div>
+
       <div className="mb-6 flex flex-wrap gap-3 justify-center items-center">
         <button
           onClick={() => {
-            if (!isPlaying) setCurrentStep(0);
+            if (!isPlaying) {
+              setCurrentStep(0);
+            }
             setIsPlaying(!isPlaying);
           }}
           disabled={steps.length === 0}
@@ -60,6 +65,7 @@ export default function Controls({
         >
           {isPlaying ? "Pause" : "Auto Play"}
         </button>
+
         <label className="flex items-center">
           Speed: Slow
           <input
